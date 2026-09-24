@@ -1,6 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Mail, NotebookPen, Telescope, MessagesSquare, ArrowRight, Sparkle, Clock3 } from "lucide-react";
-import { PageHeader } from "@/components/PageHeader";
 import { Disclaimer } from "@/components/Disclaimer";
 import { FloralCorner, Sprig } from "@/components/Floral";
 import { useActivity, relativeTime } from "@/lib/activity";
